@@ -11,3 +11,4 @@ __pycache__/
 .token
 .env
 do_not_push_me.py
+.gitignore
